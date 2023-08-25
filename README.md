@@ -3,7 +3,7 @@
 # About me
 I'm Team Leader | Finite Element Modeller | Data Scientist
 
-- 💼 Currently working at Gazprom Geotechnology ([http://geotech.gazprom.ru] (http://geotech.gazprom.ru)
+- 💼 Currently working at [Gazprom Geotechnology]([http://geotech.gazprom.ru] (http://geotech.gazprom.ru)
 - 🎯 Goals for 2023: transfer to DataScience area
 - 🎧 I love UK Garage, Grime and Afrobeat
 
