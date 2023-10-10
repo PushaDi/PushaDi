@@ -22,10 +22,12 @@ I'm Team Leader | Finite Element Modeller | Data Scientist
 <img align="left" alt="scipy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/scipy.svg" />
 <img align="left" alt="scikit_learn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/scikitlearn.svg" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/postgresql.svg" />
+<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/pytorch.svg" />
+<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/tensorflow.svg" />
 <img align="left" alt="keras" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/keras.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/github.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/tensorflow.svg" />
+
 
 <br />
 <br />
