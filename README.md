@@ -4,7 +4,6 @@
 I'm Team Leader | Finite Element Modeller | Data Scientist
 
 - 💼 Currently working at [Gazprom Geotechnology](http://geotech.gazprom.ru)
-- 🎧 I love UK Garage, Grime and Afrobeat
 
 ## Connect with me:
 [<img align="left" alt="pusha_di | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/telegram.svg" />][telegram]
